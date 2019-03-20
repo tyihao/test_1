@@ -20,8 +20,7 @@
             ExchangeGo
           </h1>
           <div class="subheading text-uppercase pl-2 mb-4">
-            Helping you make the right choice!
-          </div>
+            Helping you make the right choice la!
           <v-btn
             color="primary"
             depressed
