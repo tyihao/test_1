@@ -21,6 +21,7 @@
           </h1>
           <div class="subheading text-uppercase pl-2 mb-4">
             Helping you make the right choice la!
+          </div>
           <v-btn
             color="primary"
             depressed
